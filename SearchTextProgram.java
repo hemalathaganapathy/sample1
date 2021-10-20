@@ -17,6 +17,8 @@ public class SearchTextProgram {
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
         driver.get("https://www.google.com/");
+        
+         System.out.println("hema did commit and push");
     }
 
     @Test
