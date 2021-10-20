@@ -18,7 +18,7 @@ public class SearchTextProgram {
         driver=new ChromeDriver();
         driver.get("https://www.google.com/");
         
-         System.out.println("hema did commit and push");
+         System.out.println("hema did commit and push1");
         
         System.out.println("hema did commit and push 2");
     }
