@@ -19,6 +19,8 @@ public class SearchTextProgram {
         driver.get("https://www.google.com/");
         
          System.out.println("hema did commit and push");
+        
+        System.out.println("hema did commit and push 1");
     }
 
     @Test
