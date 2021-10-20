@@ -20,7 +20,7 @@ public class SearchTextProgram {
         
          System.out.println("hema did commit and push");
         
-        System.out.println("hema did commit and push 1");
+        System.out.println("hema did commit and push 2");
     }
 
     @Test
